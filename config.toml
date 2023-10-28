@@ -1,4 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.ellalazaro.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ella Lazaro'
 theme = 'hugo-digital-garden-theme'
+themesdir = './themes'
+publishdir = 'docs'
+copyright = 'Ella Lazaro ©'
+
+[params]
+  name = 'Ella Lazaro'
+  description = 'Launching soon.'
+  initials = 'EL'
